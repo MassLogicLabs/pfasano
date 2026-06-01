@@ -1,19 +1,44 @@
 # Peter Fasano
-**Founder & CEO, MassLogic**
+**Founder & CEO, MassLogic Labs**
 
-Bridging 25+ years of elite strategic engineering with the future of neutral AI orchestration. Lead architect of the **MIMO™ by MassLogic** platform.
+25 years building marketing at some of the world's biggest brands and
+agencies (Coca-Cola, Ogilvy, WPP). Now building MIMO, the intelligence
+engine for enterprise marketing. I own product and architecture. I'm
+hiring the technical leader who will own the rest.
 
-### 💼 Product Ecosystem
-- **MIMO™ by MassLogic**: The industry-leading Neutral AI Operating System for enterprise marketing.
-- **MIMO Marketplace™**: The Expert Agent Hub for licensed IP and AI agents.
-- **Brand Brain™**: Our proprietary intelligence hub for RAG-powered brand knowledge.
-- **Marketing Operating Model™**: The strategic framework for structuring AI-driven marketing operations.
+## What we're building
+The average enterprise ran around 91 marketing tools before a single AI
+agent showed up. Now agents are spawning on top of that sprawl,
+ungoverned and disconnected, and the CMO owns the risk without owning the
+system.
 
-### 🎯 Mission
-We are eliminating the "Integration Tax" across the global MarTech stack. By implementing a neutral orchestration layer, MIMO™ bridges the gap between high-level brand intelligence and autonomous technical execution—allowing teams to **lead with human intelligence and grow with AI collaborators.**
+MIMO is the layer that sits above the stack and makes it coherent. One
+governed source of context for a marketing org's people, agencies, and AI
+agents. Built sovereign: customer context stays in the customer's tenant.
+
+## Platform
+- **MIMO Workspace** — the CMO's command surface, where the operating
+  model becomes something a team actually uses.
+- **MIMO Intelligence** — the governed context and memory layer: brand
+  knowledge, RAG, and provenance the CMO can defend.
+- **MIMO Orchestration** — agent and MarTech orchestration across the
+  enterprise stack.
+- **MIMO Marketspace** — a curated marketplace for licensed IP and
+  certified agents.
+
+## Stack & approach
+Agent orchestration with governed, on-record execution. Graph memory and
+MCP/A2A interoperability under active design. This is early, real, and
+being built to enterprise trust standards from day one.
+
+## We're hiring a founding CTO
+This is a founding-team seat, not a hire. If you want to own the
+architecture of a category before an incumbent claims it:
+→ masslogic.io/careers/co-founder-cto
 
 ---
-🌐 [masslogic.io](https://masslogic.io) | 💼 [Connect on LinkedIn](https://linkedin.com/in/pfasano)
+[masslogic.io](https://masslogic.io) · [LinkedIn](https://www.linkedin.com/in/pfasano/)
 
-**Trademark Attribution:**
-> MIMO™, MIMO Marketplace™, Brand Brain™, Marketing Operating Model™, MassLogic™, and the MassLogic logo are trademarks of MassLogic, LLC. All other trademarks are the property of their respective owners.
+*MIMO, MIMO Workspace, MIMO Intelligence, MIMO Orchestration, and MIMO
+Marketspace are trademarks of MassLogic Labs, Inc. All other trademarks
+are the property of their respective owners.*
