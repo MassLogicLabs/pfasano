@@ -34,10 +34,10 @@ being built to enterprise trust standards from day one.
 ## We're hiring a founding CTO
 This is a founding-team seat, not a hire. If you want to own the
 architecture of a category before an incumbent claims it:
-→ masslogic.io/careers/co-founder-cto
+→ masslogiclabs.com/careers/co-founder-cto
 
 ---
-[masslogic.io](https://masslogic.io) · [LinkedIn](https://www.linkedin.com/in/pfasano/)
+[masslogiclabs.com](https://masslogiclabs.com) · [LinkedIn](https://www.linkedin.com/in/pfasano/)
 
 *MIMO, MIMO Workspace, MIMO Intelligence, MIMO Orchestration, and MIMO
 Marketspace are trademarks of MassLogic Labs, Inc. All other trademarks
